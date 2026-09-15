@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+backend/spoon.db
+
+# Node
+node_modules/
+dashboard/dist/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+*.tsbuildinfo
